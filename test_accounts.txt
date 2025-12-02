@@ -1,0 +1,7 @@
+# Archivo de ejemplo para listado de cuentas AWS con sus perfiles SSO
+# Formato: account_id:profile_name (uno por línea)
+# Las líneas que comienzan con # son ignoradas
+
+123456789012:AWS_Account1_Profile
+987654321098:AWS_Account2_Profile
+111111111111:AWS_Account3_Profile
